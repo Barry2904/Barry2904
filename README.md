@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **ML Projects**
 
-- 👨‍💻 All of my projects are available at [bharathjr.me](bharathjr.me)
+- 👨‍💻 All of my projects are available at [My Website](http://bharathjr.me/)
 
 - 💬 Ask me about **Python**
 
