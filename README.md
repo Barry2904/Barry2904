@@ -9,6 +9,8 @@
 
 - 👯 I’m looking to collaborate on **ML Projects**
 
+- 👨‍💻 All of my projects are available at [bharathjr.me](bharathjr.me)
+
 - 💬 Ask me about **Python**
 
 - 📫 How to reach me **bharathjramalingam@gmail.com**
@@ -17,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://linkedin.com/in/bharathjr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathjr/" height="30" width="40" /></a>
 </p>
 
