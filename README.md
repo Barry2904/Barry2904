@@ -19,9 +19,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bharathjr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathjr/" height="30" width="40" /></a>
-
 <a href="http://bharathjr.me/" target="blank"><img align="center" src="https://github.com/Barry2904/Icons/blob/main/world-wide-web-svgrepo-com.svg" alt="bharathjr.me" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bharathjr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharathjr/" height="30" width="40" /></a>
 </p>
 
 
